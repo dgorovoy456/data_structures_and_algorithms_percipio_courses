@@ -10,4 +10,5 @@ def check_prime(number):
     print(f'{number} is a prime number '
           f'\nTotal number of iterations = {num_iterations}')
 
+
 check_prime(88)
